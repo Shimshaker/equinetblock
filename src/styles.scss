@@ -1,1 +1,71 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+@font-face {
+  font-family: "TitilliumL";
+  src: url("assets/fonts/Titillium-thin.otf") format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+:host {
+    
+    --blue1: #137C8B;
+    --gris1: #709CA7;
+    --grisclair: #B8CBD0;
+    --grisbleu: #7A90A4;
+    --bleugris: #344D59;
+
+}
+
+html {
+    padding: 0em 0em 0em 0em;
+    color: azure;
+    background-color: #344D59;
+    margin: 0;
+    font-family: 'TitilliumL', sans-serif;
+}
+
+@media (min-width: 576px) {
+    body {
+      font-size: 0.625rem; /* 16px */
+      padding-left: 0.3rem;
+      padding-right: 0.3rem;
+      color: azure; 
+      background-color: #344D59;
+      font-family: 'TitilliumL', sans-serif;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    body {
+      font-size: 0.875rem; /* 18px */
+      padding-left: 0.3rem;
+      padding-right: 0.3rem;
+      color: azure; 
+      background-color: #344D59;
+      font-family: 'TitilliumL', sans-serif;
+    }
+  }
+  
+  @media (min-width: 992px) {
+    body {
+      font-size: 1.075rem; /* 20px */
+      padding-left: 0.3rem;
+      padding-right: 0.3rem;
+      color: azure; 
+      background-color: #344D59;
+      font-family: 'TitilliumL', sans-serif;
+    }
+  }
+  
+  @media (min-width: 1200px) {
+    body {
+      font-size: 1.2rem; /* 22px */
+      padding-left: 0.3rem;
+      padding-right: 0.3rem;
+      color: azure; 
+      background-color: #344D59;
+      font-family: 'TitilliumL', sans-serif;
+    }
+  }
