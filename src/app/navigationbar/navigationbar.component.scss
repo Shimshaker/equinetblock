@@ -1,9 +1,6 @@
-.container {
-    margin-bottom: 4em;;
-}
-
 .container-fluid {
-    color: azure;
+    padding-left: 12rem;
+    padding-right: 12rem;
     background-color: #137C8B;
 }
 
@@ -16,3 +13,11 @@
 a {
     color: #f7f9fc;
 }
+
+a.active {
+    text-decoration: underline;
+    border: solid thin;
+    border-color: #f7f9fc;
+    border-radius: 5px;
+}
+

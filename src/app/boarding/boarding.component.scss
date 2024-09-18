@@ -4,3 +4,30 @@
     width: max-content;
 
 }
+
+.cardDispo {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.card {
+    width: 18rem;
+    color: azure;
+    margin: 1rem;
+    background-color: #48818f;
+    border: solid thin;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+i {
+    font-size: xx-large;
+}
+
+.btn {
+    color: azure;
+    background-color: #137C8B;
+    border: solid thin;
+}
