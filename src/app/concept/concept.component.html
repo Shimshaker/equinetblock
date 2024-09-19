@@ -1,11 +1,11 @@
-<div class="container-fluid text-center">
+<div class="container-fluid text-center accordion" id="accordionConcept">
     <div class="cardDispo">
-    <div class="card">
+      <div class="card">
         <i class="bi bi-diagram-3-fill" alt="..."></i>
         <div class="card-body">
           <h5 class="card-title">Notre réseau,</h5>
           <p class="card-text">Decentralisation, stabilité, securité data, evolutivité, un ancrage pour une Blockchain...</p>
-          <a routerLink="network" class="btn">Plus d'info...</a>
+          <a data-bs-toggle="collapse" role="button" href="#multiCollapseNetwork" class="btn" aria-expanded="true" aria-controls="multiCollapseNetwork">Plus d'info...</a>
         </div>
       </div>
       <div class="card" >
@@ -13,7 +13,7 @@
         <div class="card-body">
           <h5 class="card-title">Evolution,</h5>
           <p class="card-text">Nous sommes la blockchain, et nous maintenont et evoluons avec...</p>
-          <a routerLink="evolution" class="btn">Plus d'info...</a>
+          <a data-bs-toggle="collapse" role="button" href="#multiCollapseEvolution" class="btn" aria-expanded="false" aria-controls="multiCollapseEvolution">Plus d'info...</a>
         </div>
       </div>
       <div class="card">
@@ -21,7 +21,7 @@
         <div class="card-body">
           <h5 class="card-title">Technique,</h5>
           <p class="card-text">Hardware, software spécifique, pour un réseau stable et bien partager...</p>
-          <a routerLink="technology" class="btn">Plus d'info...</a>
+          <a data-bs-toggle="collapse" role="button" href="#multiCollapseTechnology" class="btn" aria-expanded="false" aria-controls="multiCollapseTechnology">Plus d'info...</a>
         </div>
       </div>
       <div class="card">
@@ -29,9 +29,32 @@
         <div class="card-body">
           <h5 class="card-title">Capacité</h5>
           <p class="card-text">Proof of Work, proof of transactions, des retours possible pour chacuns...</p>
-          <a routerLink="capacity" class="btn">Plus d'info...</a>
+          <a data-bs-toggle="collapse" role="button" href="#multiCollapseCapacity" class="btn" aria-expanded="false" aria-controls="multiCollapseCapacity">Plus d'info...</a>
         </div>
       </div>
     </div>
-  </div>
-  
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          <!-- Collapse Network -->
+          <div class="collapse multi-collapse show" id="multiCollapseNetwork" data-bs-parent="#accordionConcept">
+              <app-network></app-network>
+          </div>
+          <!-- Collapse Evolution -->
+          <div class="collapse multi-collapse" id="multiCollapseEvolution" data-bs-parent="#accordionConcept">
+              <app-evolution></app-evolution>
+          </div>
+             <!-- Collapse Technology -->
+             <div class="collapse multi-collapse" id="multiCollapseTechnology" data-bs-parent="#accordionConcept">
+              <app-technology></app-technology>
+          </div>
+             <!-- Collapse Capacity -->
+             <div class="collapse multi-collapse" id="multiCollapseCapacity" data-bs-parent="#accordionConcept">
+              <app-capacity></app-capacity>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
+
+
