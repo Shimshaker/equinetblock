@@ -1,4 +1,32 @@
-<div class="container">
-    <p>contact works!</p>
+<div class="container text-center">
+    <div class="row">
+        <div class="col"></div>
+        <div class="col-8">
+            <h3><u>Contact us</u></h3>
+            <br>
+            <p>Having some questions or needded some more informations, or support, send it ...</p>
+            <form class="needs-validation row g-3 align-items-center" [formGroup]="contactForm" (ngSubmit)="sendEmail()">
+                <label for="validationemail" class="form-label">Your email address</label>    
+                <div class="input-group mb-3 has-validation">
+                    
+                    <input type="email" formControlName="email" class="form-control" id="validationemail" placeholder="name@example.com" aria-label="email" aria-describedby="email-addon" [class]="contactForm.controls['email'].invalid && contactForm.controls['email'].touched ? 'is-invalid' : 'is-valid' " />
+                    <div class="invalid-feedback" id="validationEmailFeedback" *ngIf="contactForm.controls['email'].invalid && contactForm.controls['email'].touched">Your email must be indicated..:</div>
+               </div>
+               <label class="form-label">Subject of you Message</label>
+               <div class="input-group mb-3 has-validation">
+                  
+                   <input type="subject" formControlName="subject" class="form-control" id="validationsubject" placeholder="Subject of you message" aria-label="subject" aria-describedby="subject-addon" [class]="contactForm.controls['subject'].invalid && contactForm.controls['subject'].touched ? 'is-invalid' : 'is-valid' "/>
+                   <div class="invalid-feedback" id="validationSubjectFeedback" *ngIf="contactForm.controls['subject'].invalid && contactForm.controls['subject'].touched">The subject is required..!</div>
+              </div>
+                <div class="mb-3">
+                    <label for="messageTextarea" class="form-label">Your message</label>
+                    <textarea class="form-control" formControlName="message" id="messageTextarea" rows="3"  [class]="contactForm.controls['message'].invalid && contactForm.controls['message'].touched ? 'is-invalid' : 'is-valid' "></textarea>
+                    <div class="invalid-feedback" id="validationmessageFeedback" *ngIf="contactForm.controls['message'].invalid && contactForm.controls['message'].touched">Write your message here..!</div>
+                </div>
+                <button type="submit" [disabled]="contactForm.invalid" class="btn btn-outline-light">Send</button>
+            </form>
+        </div>
+        <div class="col"></div>
+    </div>
+  
 </div>
-

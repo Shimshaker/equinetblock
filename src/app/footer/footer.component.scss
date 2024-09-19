@@ -1,0 +1,50 @@
+.container-fluid {
+    margin-top: 2rem;
+    padding-bottom: 2rem;
+    background-color: #137C8B;
+}
+
+footer{
+    background-color: #137C8B;
+      margin-top: 2em;
+      border-top: dotted;
+      list-style-type: none;
+      text-align: center;
+      padding: 1em;
+      font-size: 1em;
+      font-weight: normal;
+      border-width: 1px;
+      color: white;
+      border-radius: 5px;  
+    }
+    
+    ul {
+      margin: 1em;
+      list-style-type: none;
+      
+    }
+  
+    a {
+      color: white;
+      text-decoration: none;
+      
+      &:hover {
+        background-color: #f5fcfb;
+        text-decoration: underline;
+        color: rgb(67, 67, 224);
+        border-radius: 7px;
+      }
+  
+    }
+  
+    li>a.active{
+      color: rgb(67, 67, 224);
+      background-color: white;
+      text-decoration: underline;
+  
+    }
+  
+    .footerDiv {
+      margin-top: 1em;
+    }
+    

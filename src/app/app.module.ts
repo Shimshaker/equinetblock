@@ -9,6 +9,11 @@ import { ConceptComponent } from './concept/concept.component';
 import { ContactComponent } from './contact/contact.component';
 import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
+import { NetworkComponent } from './network/network.component';
+import { EvolutionComponent } from './evolution/evolution.component';
+import { TechnologyComponent } from './technology/technology.component';
+import { CapacityComponent } from './capacity/capacity.component';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -18,11 +23,17 @@ import { FooterComponent } from './footer/footer.component';
     ConceptComponent,
     ContactComponent,
     HeaderComponent,
-    FooterComponent
+    FooterComponent,
+    NetworkComponent,
+    EvolutionComponent,
+    TechnologyComponent,
+    CapacityComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    FormsModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
