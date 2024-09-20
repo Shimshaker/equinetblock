@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="fr-FR" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="7313068218401422709" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Fondement du Projet : Une Vision Ambitieuse et Collaborative<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Foundation of the Project: An Ambitious and Collaborative Vision<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text=" &lt;/u&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
+          <context context-type="linenumber">3,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3068119582318283347" datatype="html">
+        <source>EquinetBlock est bien plus qu&apos;une simple blockchain : c&apos;est un projet ambitieux, conçu pour repousser les limites de la décentralisation et offrir une plateforme qui réunit des acteurs de tous horizons. Nous croyons fermement que l’avenir de la technologie blockchain repose sur la collaboration, et c’est avec cet esprit que nous lançons un appel à la communauté, aux développeurs, aux experts, et aux investisseurs pour nous rejoindre dans cette aventure.</source>
+        <target>EquinetBlock is more than just a blockchain: it is an ambitious project, designed to push the boundaries of decentralization and offer a platform that brings together actors from all walks of life. We firmly believe that the future of blockchain technology lies in collaboration, and it is with this in mind that we are calling on the community, developers, experts, and investors to join us in this adventure.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
+          <context context-type="linenumber">5,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5273338567688303405" datatype="html">
+        <source>Phase 1 : Conception</source>
+        <target>Phase 1: Design</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
+          <context context-type="linenumber">10,11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9045434616747700085" datatype="html">
+        <source>Recherche de collaborateur et etudes du projet</source>
+        <target>Search for collaborator and project studies</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
+          <context context-type="linenumber">11,12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3545533192235603421" datatype="html">
+        <source>Élaboration de l&apos;architecture de la blockchain, choix du consensus, création des bases techniques.</source>
+        <target>Development of blockchain architecture, choice of consensus, creation of technical bases.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
+          <context context-type="linenumber">12,13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7601488409189862367" datatype="html">
+        <source>Phase 2 : Développement Initial</source>
+        <target>Phase 2: Initial Development</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
+          <context context-type="linenumber">18,19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4714631569994265469" datatype="html">
+        <source>Développement des fonctionnalités principales et tests de la sécurité de la chaîne.</source>
+        <target>Development of core features and testing of chain security.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
+          <context context-type="linenumber">19,20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4105706448158523105" datatype="html">
+        <source>Phase 3 : Lancement du Testnet</source>
+        <target>Phase 3: Testnet Launch</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
+          <context context-type="linenumber">25,26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7421729655886914274" datatype="html">
+        <source>Lancement de la version test du réseau pour valider les fonctionnalités.</source>
+        <target>Launch of the test version of the network to validate the functionalities.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
+          <context context-type="linenumber">26,27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="786603556116128715" datatype="html">
+        <source>Phase 4 : Mainnet et Adoption</source>
+        <target>Phase 4: Mainnet and Adoption</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
+          <context context-type="linenumber">32,33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9202915084003943937" datatype="html">
+        <source>Déploiement du réseau principal et promotion auprès des utilisateurs et investisseurs.</source>
+        <target>Mainnet deployment and promotion to users and investors.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
+          <context context-type="linenumber">33,34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2603048809148169613" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Une Ambition Partagée<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/>...</source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>A Shared Ambition<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;" />...</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
+          <context context-type="linenumber">41,43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6559802555681309840" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Notre vision est claire<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/>: créer une blockchain équitable, évolutive et sécurisée, capable de répondre aux besoins de demain.</source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Our vision is clear<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/>: to create a fair, scalable and secure blockchain, capable of meeting the needs of tomorrow.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
+          <context context-type="linenumber">47,49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6353782916070225728" datatype="html">
+        <source>Pour concrétiser cette vision, nous avons besoin de l&apos;expertise et de l&apos;engagement de talents dans divers domaines :</source>
+        <target>To realize this vision, we need the expertise and commitment of talents in various fields:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
+          <context context-type="linenumber">49,50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7522290397163320082" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Cryptographie<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/> : Des experts en sécurité pour renforcer nos protocoles et garantir la protection des données et des transactions.</source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Cryptography<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/> : Security experts to strengthen our protocols and ensure data and transaction protection.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
+          <context context-type="linenumber">52,53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2860276917248982177" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Développement logiciel<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/> : Des ingénieurs spécialisés dans des langages comme Rust pour créer une infrastructure stable et performante.</source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Software Development<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/>: Engineers specialized in languages ​​like Rust to create a stable and performant infrastructure.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
+          <context context-type="linenumber">53,54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5395518235579172543" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Marketing et promotion<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/> : Des professionnels capables de faire connaître EquinetBlock et d’attirer de nouveaux utilisateurs sur le réseau.</source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Marketing and Promotion<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/>: Professionals who can spread the word about EquinetBlock and attract new users to the network.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
+          <context context-type="linenumber">54,55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8130648444997083395" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Utilisateurs et adoption<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/> : Des pionniers prêts à adopter notre technologie, à l’utiliser pour leurs transactions et à contribuer à la validation des blocs.</source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Users and Adoption<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/>: Pioneers ready to adopt our technology, use it for their transactions and contribute to the validation of blocks.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
+          <context context-type="linenumber">55,56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7364344077828783818" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Investissement et support financier<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/> : Des investisseurs visionnaires prêts à soutenir l’évolution du projet et à accompagner sa croissance.</source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Investment and financial support<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/>: Visionary investors ready to support the evolution of the project and accompany its growth.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
+          <context context-type="linenumber">56,58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2412487190010371099" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Développement Collaboratif<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/>: Nous croyons en un modèle de développement ouvert et transparent, où chaque contribution compte. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> Dès le début, EquinetBlock s’est construit sur la base de contributions diverses, et nous souhaitons que cela continue. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> Chaque collaborateur, chaque idée, chaque effort participe à l&apos;amélioration de notre réseau. Nous encourageons les échanges, le partage d’idées et la mise en commun des ressources pour créer un écosystème où l’innovation est collective.</source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Collaborative Development<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/>: We believe in an open and transparent development model, where every contribution counts. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> From the beginning, EquinetBlock has been built on diverse contributions, and we want to keep it that way. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> Every collaborator, every idea, every effort contributes to the improvement of our network. We encourage exchanges, the sharing of ideas and the pooling of resources to create an ecosystem where innovation is collective.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
+          <context context-type="linenumber">59,65</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3092166505389774149" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Un Projet au Cœur de l&apos;Innovation<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>A Project at the Heart of Innovation<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
+          <context context-type="linenumber">68,70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2824211332304011623" datatype="html">
+        <source> En tant que projet encore en plein développement, nous avons conscience de l’immense potentiel que recèle notre blockchain. Nous sommes à la recherche de talents motivés et d’esprits créatifs pour nous aider à surmonter les défis techniques et à propulser EquinetBlock vers de nouveaux sommets. Que vous soyez un développeur, un expert en cryptographie, un utilisateur passionné ou un investisseur audacieux, votre place est ici, avec nous, pour bâtir l’avenir de EquinetBlock ensemble.</source>
+        <target>As a project still in full development, we recognize the immense potential that our blockchain holds. We are looking for motivated talents and creative minds to help us overcome technical challenges and propel EquinetBlock to new heights. Whether you are a developer, a crypto expert, a passionate user or a bold investor, you belong here, with us, to build the future of EquinetBlock together.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7139318241444942205" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Construire l&apos;Avenir Ensemble<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Building the Future Together<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
+          <context context-type="linenumber">77,79</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7146283174801642605" datatype="html">
+        <source>Rejoindre EquinetBlock, c’est participer à un projet où chaque voix compte, où l’innovation est guidée par la collaboration, et où les résultats sont partagés entre tous. Nous avons besoin de vous pour rendre cette vision possible et construire ensemble une blockchain qui sera à la fois sûre, performante et équitable pour l&apos;ensemble de ses participants.</source>
+        <target>Joining EquinetBlock means participating in a project where every voice counts, where innovation is driven by collaboration, and where results are shared by all. We need you to make this vision possible and build together a blockchain that will be secure, efficient, and fair for all its participants.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
+          <context context-type="linenumber">79,80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6469894815265333713" datatype="html">
+        <source>Si vous avez l’âme d’un pionnier et que vous souhaitez prendre part à cette aventure ambitieuse, nous vous invitons à rejoindre notre équipe et à contribuer à l’avenir de la blockchain, contactez-nous !</source>
+        <target>If you have the soul of a pioneer and want to take part in this ambitious adventure, we invite you to join our team and contribute to the future of blockchain, contact us!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
+          <context context-type="linenumber">84,85</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1885904962518702068" datatype="html">
+        <source>contactez-nous</source>
+        <target>contact us</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
+          <context context-type="linenumber">86,87</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8313421560705526029" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Capacité : Maximiser le Potentiel avec le Proof of Work et le Proof of Transactions<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Capacity: Maximize Potential with Proof of Work and Proof of Transactions<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u " equiv-text="&lt;/u&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/capacity/capacity.component.html</context>
+          <context context-type="linenumber">4,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="720903703237196528" datatype="html">
+        <source>Le réseau EquinetBlock repose sur une infrastructure puissante, conçue pour offrir à chacun une opportunité équitable de participer et de bénéficier des capacités de notre blockchain. Grâce à une combinaison unique de Proof of Work (PoW) et de Proof of Transactions, chaque participant au réseau joue un rôle actif dans la validation des transactions, le minage, et la sécurité du système, tout en recevant des retours équitables en fonction de sa contribution.</source>
+        <target>The EquinetBlock network is built on a powerful infrastructure designed to provide everyone with a fair opportunity to participate and benefit from the capabilities of our blockchain. Through a unique combination of Proof of Work (PoW) and Proof of Transactions, each network participant plays an active role in validating transactions, mining, and securing the system, while receiving fair returns based on their contribution.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/capacity/capacity.component.html</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1151384171901666888" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Proof of Work : Une Base Solide pour la Sécurité et la Performance<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Proof of Work: A Solid Foundation for Security and Performance<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/capacity/capacity.component.html</context>
+          <context context-type="linenumber">10,12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3244285868005390547" datatype="html">
+        <source>Le Proof of Work est au cœur de la sécurité et de la stabilité de EquinetBlock. Chaque mineur contribue à la validation des blocs en résolvant des calculs complexes, assurant ainsi la sécurité du réseau contre les attaques et garantissant l’intégrité des transactions. Ce processus décentralisé assure une répartition équitable des récompenses pour les efforts fournis, où chaque mineur reçoit un retour proportionnel à sa puissance de calcul et à sa contribution à la sécurisation du réseau.</source>
+        <target>Proof of Work is at the heart of EquinetBlock’s security and stability. Each miner contributes to the validation of blocks by solving complex calculations, thus ensuring the security of the network against attacks and guaranteeing the integrity of transactions. This decentralized process ensures a fair distribution of rewards for the efforts made, where each miner receives a return proportional to their computing power and their contribution to securing the network.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/capacity/capacity.component.html</context>
+          <context context-type="linenumber">12,13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2649523002249189393" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Proof of Transactions : Un Système Équitable de Récompenses<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Proof of Transactions: A Fair Rewards System<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text=" &lt;/u&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/capacity/capacity.component.html</context>
+          <context context-type="linenumber">16,18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6084307381074797297" datatype="html">
+        <source>Au-delà du Proof of Work, EquinetBlock introduit le concept de Proof of Transactions, un mécanisme où les participants qui valident et facilitent les transactions sur le réseau reçoivent également des récompenses. Ce modèle permet à chaque nœud de profiter directement des activités économiques qui passent par le réseau, rendant la participation active encore plus attrayante et gratifiante. Plus un nœud traite de transactions, plus il reçoit de retours, assurant une distribution juste et équitable des bénéfices du réseau.</source>
+        <target>Beyond Proof of Work, EquinetBlock introduces the concept of Proof of Transactions, a mechanism where participants who validate and facilitate transactions on the network also receive rewards. This model allows each node to directly benefit from the economic activities that pass through the network, making active participation even more attractive and rewarding. The more transactions a node processes, the more returns it receives, ensuring a fair and equitable distribution of network profits.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/capacity/capacity.component.html</context>
+          <context context-type="linenumber">18,19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3892308033579061801" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Des Retours pour Tous<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Returns for Everyone<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt; "/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/capacity/capacity.component.html</context>
+          <context context-type="linenumber">22,24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="329022662370596688" datatype="html">
+        <source>Dans l’esprit de la décentralisation et de la collaboration, EquinetBlock garantit que chaque acteur du réseau – qu&apos;il s&apos;agisse d’un mineur ou d’un validateur de transactions – perçoit une juste part des bénéfices. Que vous contribuiez via le minage ou en validant des transactions, vous faites partie intégrante de l’écosystème et recevez des retours en fonction de votre participation. Cette approche assure non seulement l’évolutivité et la sécurité du réseau, mais aussi une redistribution des gains équilibrée et équitable pour tous les participants.</source>
+        <target>In the spirit of decentralization and collaboration, EquinetBlock ensures that every stakeholder in the network – whether a miner or a transaction validator – receives a fair share of the profits. Whether you contribute through mining or validating transactions, you are an integral part of the ecosystem and receive returns based on your participation. This approach not only ensures the scalability and security of the network, but also a balanced and fair distribution of profits for all participants.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/capacity/capacity.component.html</context>
+          <context context-type="linenumber">24,25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6282807634593762585" datatype="html">
+        <source>Notre réseau,</source>
+        <target>Our network,</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/concept/concept.component.html</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1078129599115957801" datatype="html">
+        <source>Decentralisation, stabilité, securité data, evolutivité, un ancrage pour une Blockchain...</source>
+        <target>Decentralization, stability, data security, scalability, an anchor for a Blockchain...</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/concept/concept.component.html</context>
+          <context context-type="linenumber">7,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="995491621134863428" datatype="html">
+        <source>Plus d&apos;info...</source>
+        <target>More info...</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/concept/concept.component.html</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/concept/concept.component.html</context>
+          <context context-type="linenumber">16,17</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/concept/concept.component.html</context>
+          <context context-type="linenumber">24,25</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/concept/concept.component.html</context>
+          <context context-type="linenumber">32,33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="399224427906913965" datatype="html">
+        <source>Evolution,</source>
+        <target>Evolution,</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/concept/concept.component.html</context>
+          <context context-type="linenumber">14,15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8929461971833289250" datatype="html">
+        <source>Nous sommes la blockchain, et nous maintenont et evoluons avec...</source>
+        <target>We are the blockchain, and we maintain and evolve with for us and you...</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/concept/concept.component.html</context>
+          <context context-type="linenumber">15,16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7886361165290245466" datatype="html">
+        <source>Technique,</source>
+        <target>Technical,</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/concept/concept.component.html</context>
+          <context context-type="linenumber">22,23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6560120002383213994" datatype="html">
+        <source>Hardware, software spécifique, pour un réseau stable et bien partager...</source>
+        <target>Hardware, specific software, for a stable and well-shared network...</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/concept/concept.component.html</context>
+          <context context-type="linenumber">23,24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7965672989392672913" datatype="html">
+        <source>Capacité</source>
+        <target>Ability</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/concept/concept.component.html</context>
+          <context context-type="linenumber">30,31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3616035340104195379" datatype="html">
+        <source>Proof of Work, proof of transactions, des retours possible pour chacuns...</source>
+        <target>Proof of Work, proof of transactions, possible returns for everyone...</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/concept/concept.component.html</context>
+          <context context-type="linenumber">31,32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2931863194523012172" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Contactez-nous...!<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Contact us...!<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt; /u&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">3,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8336343297342950438" datatype="html">
+        <source>Vous avez des questions, de l&apos;intérêt pour le projet, envoyez nous un mail...</source>
+        <target>You have questions, interest in the project, send us an email...</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7997400744829322077" datatype="html">
+        <source>Votre adresse email</source>
+        <target>Your email address</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8895773543178644588" datatype="html">
+        <source>Votre email est requis.</source>
+        <target>Your email is required.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8921762031255757221" datatype="html">
+        <source>Le sujet de votre message</source>
+        <target>The subject of your message</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">15,16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7279747643436218149" datatype="html">
+        <source>Le sujet est requis.</source>
+        <target>Subject is required.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3316133366238757488" datatype="html">
+        <source>Votre message</source>
+        <target>Your message</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">23,24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5453573676919481201" datatype="html">
+        <source>Le message est requis.</source>
+        <target>Message is required.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7243381769177289361" datatype="html">
+        <source>Envoyer</source>
+        <target>Send</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">30,31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2273193841404458254" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Évolution : Une Blockchain en Mouvement avec Ses Utilisateurs<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Evolution: A Blockchain in Motion with Its Users<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/evolution/evolution.component.html</context>
+          <context context-type="linenumber">4,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6999730681665574963" datatype="html">
+        <source>Nous sommes EquinetBlock, une blockchain construite pour évoluer constamment avec les besoins de ses utilisateurs. À la différence des réseaux centralisés, notre force réside dans la collaboration de chacun. Chaque nœud, chaque mineur, chaque utilisateur contribue à l&apos;amélioration et à l&apos;adaptation continue de notre réseau.</source>
+        <target>We are EquinetBlock, a blockchain built to constantly evolve with the needs of its users. Unlike centralized networks, our strength lies in the collaboration of everyone. Every node, every miner, every user contributes to the continuous improvement and adaptation of our network.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/evolution/evolution.component.html</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2977539422796627417" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Un Réseau en Évolution Permanente<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>A Network in Permanent Evolution<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/evolution/evolution.component.html</context>
+          <context context-type="linenumber">10,12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="498409839045318515" datatype="html">
+        <source>L&apos;innovation ne s&apos;arrête jamais chez EquinetBlock. Nous sommes engagés à maintenir et à faire évoluer notre blockchain de manière proactive, en intégrant les retours de la communauté et les avancées technologiques. Notre architecture est flexible et conçue pour accueillir des mises à jour régulières, garantissant que notre réseau reste à la pointe de l&apos;innovation.</source>
+        <target>Innovation never stops at EquinetBlock. We are committed to proactively maintaining and evolving our blockchain, incorporating community feedback and technological advancements. Our architecture is flexible and designed to accommodate regular updates, ensuring our network remains at the forefront of innovation.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/evolution/evolution.component.html</context>
+          <context context-type="linenumber">12,13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7121969620158384612" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>La Collaboration comme Moteur de Progrès<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Collaboration as an Engine of Progress<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/ u&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/evolution/evolution.component.html</context>
+          <context context-type="linenumber">16,18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4931946678032393764" datatype="html">
+        <source>Nous croyons fermement que l&apos;évolution de EquinetBlock dépend de l’implication de tous. Chaque acteur du réseau, du simple utilisateur au mineur, participe activement à la croissance et à l’amélioration de notre écosystème. Cette collaboration décentralisée assure que EquinetBlock continue de répondre aux besoins réels de ses participants.</source>
+        <target>We strongly believe that the evolution of EquinetBlock depends on the involvement of all. Every actor in the network, from simple users to miners, actively participates in the growth and improvement of our ecosystem. This decentralized collaboration ensures that EquinetBlock continues to meet the real needs of its participants.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/evolution/evolution.component.html</context>
+          <context context-type="linenumber">18,19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8175043031193669763" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Un Réseau qui Grandit avec Vous<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>A Network that Grows with You<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/evolution/evolution.component.html</context>
+          <context context-type="linenumber">22,24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6129541966552886672" datatype="html">
+        <source>Grâce à cette collaboration, EquinetBlock ne cesse de se perfectionner. Que ce soit en termes de performance, de sécurité ou de capacité transactionnelle, nous évoluons avec vous et pour vous. Ensemble, nous façonnons une blockchain qui non seulement suit le rythme du changement, mais qui est à l’avant-garde de celui-ci.</source>
+        <target>Through this collaboration, EquinetBlock continues to improve. Whether in terms of performance, security or transaction capacity, we evolve with you and for you. Together, we are shaping a blockchain that not only keeps pace with change, but is at the forefront of it.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/evolution/evolution.component.html</context>
+          <context context-type="linenumber">24,25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8689112350075485865" datatype="html">
+        <source>Qui sommes nous ?</source>
+        <target>Who are we ?</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">7,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8246202228993868492" datatype="html">
+        <source>Les services</source>
+        <target>The services</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">16,17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="621353811577599471" datatype="html">
+        <source>Contactez-nous</source>
+        <target>Contact us</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">25,26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8990078617519293034" datatype="html">
+        <source>@Copyright 2024 EquiNetBlock.org created by bsoftcomputing.com</source>
+        <target>@Copyright 2024 EquiNetBlock.org created by bsoftcomputing.com</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">31,32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3529956009706043695" datatype="html">
+        <source>Une blockchain par tous pour tous !</source>
+        <target>A blockchain by all for all!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header/header.component.html</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1033194238101603573" datatype="html">
+        <source>Boarding</source>
+        <target>Boarding</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/navigationbar/navigationbar.component.html</context>
+          <context context-type="linenumber">11,12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8270794910002384650" datatype="html">
+        <source>Concept</source>
+        <target>Concept</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/navigationbar/navigationbar.component.html</context>
+          <context context-type="linenumber">14,15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7922989125096435449" datatype="html">
+        <source>Contact</source>
+        <target>Contact</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/navigationbar/navigationbar.component.html</context>
+          <context context-type="linenumber">17,18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1757864252899873067" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Notre Réseau : La Fondation d&apos;une Blockchain Solide et Évolutive<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Our Network: The Foundation of a Strong and Scalable Blockchain<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/network/network.component.html</context>
+          <context context-type="linenumber">5,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1676113793030898017" datatype="html">
+        <source>Chez EquinetBlock, nous avons conçu un réseau décentralisé qui repose sur des principes fondamentaux : la décentralisation, la stabilité, la sécurité des données, et l&apos;évolutivité. Ces piliers assurent que notre blockchain est non seulement performante et sécurisée aujourd&apos;hui, mais également prête à évoluer pour répondre aux besoins de demain.</source>
+        <target>At EquinetBlock, we have designed a decentralized network based on core principles: decentralization, stability, data security, and scalability. These pillars ensure that our blockchain is not only performant and secure today, but also ready to evolve to meet the needs of tomorrow.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/network/network.component.html</context>
+          <context context-type="linenumber">7,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="742925784811929838" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Décentralisation<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Decentralization<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/network/network.component.html</context>
+          <context context-type="linenumber">11,13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2437005333764287816" datatype="html">
+        <source>L&apos;essence même de notre réseau est sa structure décentralisée. Chaque nœud participe activement à la validation des transactions, garantissant une distribution équitable des récompenses et une absence de contrôle centralisé. Cela permet une gouvernance collective et renforce la confiance dans le réseau, où chaque participant joue un rôle clé.</source>
+        <target>The very essence of our network is its decentralized structure. Each node actively participates in validating transactions, ensuring fair distribution of rewards and no centralized control. This enables collective governance and builds trust in the network, where each participant plays a key role.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/network/network.component.html</context>
+          <context context-type="linenumber">13,14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2167593077713945229" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Stabilité<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Stability<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/network/network.component.html</context>
+          <context context-type="linenumber">17,19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2690964923264409365" datatype="html">
+        <source>La stabilité de EquinetBlock repose sur une architecture robuste et résiliente. Notre réseau est conçu pour fonctionner de manière fluide, même sous une forte charge. En répartissant les transactions entre les nœuds et en optimisant le consensus, nous assurons une performance constante et fiable, indispensable pour un réseau blockchain durable.</source>
+        <target>EquinetBlock’s stability is built on a robust and resilient architecture. Our network is designed to run smoothly, even under heavy load. By distributing transactions across nodes and optimizing consensus, we ensure consistent and reliable performance, which is essential for a sustainable blockchain network.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/network/network.component.html</context>
+          <context context-type="linenumber">19,20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5245541598487610206" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Sécurité des Données<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Sécurité des Données<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/network/network.component.html</context>
+          <context context-type="linenumber">23,25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4907576715979137760" datatype="html">
+        <source>La sécurité est au cœur de notre infrastructure. Grâce à des protocoles cryptographiques avancés et à des mécanismes de Proof of Work (PoW), nous protégeons les données et les transactions contre les attaques malveillantes. Chaque bloc ajouté à la chaîne est immuable, offrant ainsi une traçabilité et une protection des données sans faille.</source>
+        <target>Security is at the core of our infrastructure. Using advanced cryptographic protocols and Proof of Work (PoW) mechanisms, we protect data and transactions from malicious attacks. Every block added to the chain is immutable, providing seamless traceability and data protection.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/network/network.component.html</context>
+          <context context-type="linenumber">25,26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8653639646310751555" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Évolutivité<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Scalability<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/network/network.component.html</context>
+          <context context-type="linenumber">29,31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4889835542193300128" datatype="html">
+        <source>EquinetBlock est pensé pour croître avec ses utilisateurs. Notre réseau est conçu pour s&apos;adapter aux besoins croissants en termes de transactions et de nouveaux participants. Grâce à une architecture flexible, nous pouvons intégrer de nouvelles fonctionnalités, optimiser les performances, et gérer des volumes de transactions de plus en plus importants.</source>
+        <target>EquinetBlock is designed to grow with its users. Our network is designed to adapt to the growing needs of transactions and new participants. Thanks to a flexible architecture, we can integrate new features, optimize performance, and manage increasingly large transaction volumes.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/network/network.component.html</context>
+          <context context-type="linenumber">31,32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7348978618129773967" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Un Ancrage pour l&apos;Avenir de la Blockchain<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>An Anchor for the Future of Blockchain<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text=" &lt;/u&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/network/network.component.html</context>
+          <context context-type="linenumber">35,37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4382142122024410865" datatype="html">
+        <source>En combinant décentralisation, sécurité, stabilité et évolutivité, EquinetBlock s&apos;impose comme un ancrage fiable pour le développement de la prochaine génération de services blockchain. Nous croyons fermement en une technologie qui met les utilisateurs au centre, garantissant l&apos;intégrité, la transparence et l&apos;équité à chaque étape du processus.</source>
+        <target>By combining decentralization, security, stability and scalability, EquinetBlock stands as a reliable anchor for the development of the next generation of blockchain services. We strongly believe in a technology that puts users at the center, ensuring integrity, transparency and fairness at every step of the process.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/network/network.component.html</context>
+          <context context-type="linenumber">37,38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9034055887431892887" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Technique : Une Infrastructure Performante pour un Réseau Stable et Partagé<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Technique: A High-Performance Infrastructure for a Stable and Shared Network<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/technology/technology.component.html</context>
+          <context context-type="linenumber">4,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9175692712589893878" datatype="html">
+        <source>Pour assurer la stabilité et la performance de EquinetBlock, nous avons développé une infrastructure technique robuste, fondée sur des technologies avancées et une intégration fluide entre le matériel et le logiciel. Cette approche garantit un réseau décentralisé optimisé pour la gestion de charges et la répartition équitable des ressources entre les participants.</source>
+        <target>To ensure the stability and performance of EquinetBlock, we have developed a robust technical infrastructure, based on advanced technologies and seamless integration between hardware and software. This approach ensures a decentralized network optimized for load management and fair distribution of resources among participants.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/technology/technology.component.html</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6684497460989275192" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Un Langage de Pointe : Rust<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>A Cutting-edge Language: Rust<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/ u&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/technology/technology.component.html</context>
+          <context context-type="linenumber">10,12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4301617525744280073" datatype="html">
+        <source>Nous avons choisi Rust comme langage de programmation principal pour le développement de notre blockchain. Rust est reconnu pour sa sécurité, ses performances élevées et son efficacité en gestion de mémoire, en particulier dans des environnements critiques comme les systèmes décentralisés. Il nous permet d’optimiser le traitement des transactions et la communication entre les nœuds, tout en minimisant les risques d’erreurs et en maximisant la sécurité.</source>
+        <target>We chose Rust as the primary programming language for our blockchain development. Rust is known for its security, high performance, and memory efficiency, especially in critical environments like decentralized systems. It allows us to optimize transaction processing and communication between nodes, while minimizing the risk of errors and maximizing security.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/technology/technology.component.html</context>
+          <context context-type="linenumber">12,13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3563450569473455567" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Un Matériel Spécifique pour un Réseau Performant<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
+        <x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Specific Hardware for a High-Performance Network<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/technology/technology.component.html</context>
+          <context context-type="linenumber">16,18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2280401531936436541" datatype="html">
+        <source>Pour garantir une gestion efficace des charges et une répartition harmonieuse des tâches, nous avons développé un matériel spécifiquement conçu pour EquinetBlock. Ce matériel inclut des nœuds dédiés, capables de participer activement à la validation des transactions, tout en assurant la stabilité du réseau.</source>
+        <target>To ensure efficient load management and smooth task distribution, we have developed hardware specifically designed for EquinetBlock. This hardware includes dedicated nodes, capable of actively participating in transaction validation, while ensuring network stability.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/technology/technology.component.html</context>
+          <context context-type="linenumber">18,19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4186703694631469798" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Nos dispositifs comprennent des composants clés, tels que :<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Our devices include key components, such as:<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/technology/technology.component.html</context>
+          <context context-type="linenumber">22,24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="762398667896477429" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Nœuds avec accès LAN :<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/> permettant une connexion rapide et stable pour une synchronisation en temps réel des blocs.</source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Nodes with LAN access: <x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/> allowing a fast and stable connection for real-time block synchronization.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/technology/technology.component.html</context>
+          <context context-type="linenumber">25,26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1727741709344908990" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>SSD intégrés :<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/> garantissant un stockage rapide et fiable pour la gestion des mises à jour du nœud, optimisant ainsi la performance globale du réseau.</source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Integrated SSDs: <x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/> ensuring fast and reliable storage for managing node updates, thus optimizing overall network performance.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/technology/technology.component.html</context>
+          <context context-type="linenumber">26,27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8603720021786398029" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Unités de minage :<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/> spécialement conçues pour équilibrer la charge de minage et maximiser les performances en minimisant la consommation énergétique.</source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Mining Units:<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/> specially designed to balance mining load and maximize performance while minimizing power consumption.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/technology/technology.component.html</context>
+          <context context-type="linenumber">27,28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7545716363794378238" datatype="html">
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Gestion de Charges Intelligente :<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/>
+L’un des aspects essentiels de notre infrastructure repose sur une répartition intelligente des charges entre les nœuds et les unités de minage. Grâce à une coordination efficace entre le hardware et le software, chaque nœud contribue au bon fonctionnement du réseau, partageant de manière équitable la charge de validation des transactions et de minage. Cela garantit une répartition juste des ressources et des récompenses, tout en maintenant des performances élevées et une stabilité optimale.
+</source>
+<target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Intelligent Load Management:<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/>
+  A key aspect of our infrastructure is intelligent load distribution between nodes and mining units. Through efficient coordination between hardware and software, each node contributes to the smooth running of the network, sharing the load of validating transactions and mining equally. This ensures a fair distribution of resources and rewards, while maintaining high performance and optimal stability.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/technology/technology.component.html</context>
+          <context context-type="linenumber">28,32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="900156911524184498" datatype="html">
+        <source>Nos services</source>
+        <target>Our services</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/theservices/theservices.component.html</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="546864348652840282" datatype="html">
+        <source>La blockchain EquinetBlock offre une plateforme sécurisée, évolutive et décentralisée, conçue pour répondre aux besoins des utilisateurs et des entreprises à la recherche de solutions blockchain innovantes. Nous proposons un éventail de services adaptés à diverses applications : <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> Transactions sécurisées : Bénéficiez d’une infrastructure rapide et fiable pour vos transactions, avec une sécurité renforcée grâce à notre protocole Proof of Work (PoW) et des validations transparentes. Minage collaboratif : Participez activement au réseau en minant de manière équitable et en recevant des récompenses proportionnelles à votre contribution. Smart contracts : Déployez des contrats intelligents pour automatiser et sécuriser vos opérations sans intermédiaires. Interopérabilité : Intégrez facilement nos solutions à vos systèmes existants grâce à notre blockchain flexible, conçue pour s’adapter aux besoins des développeurs et des entreprises. Avec EquinetBlock, nous mettons à disposition une blockchain puissante et accessible, permettant à chaque utilisateur d’être un acteur à part entière du réseau.</source>
+        <target>The EquinetBlock blockchain offers a secure, scalable and decentralized platform, designed to meet the needs of users and businesses looking for innovative blockchain solutions. We offer a range of services adapted to various applications: <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> Secure transactions: Benefit from a fast and reliable infrastructure for your transactions, with enhanced security thanks to our Proof of Work (PoW) protocol and transparent validations. Collaborative mining: Actively participate in the network by mining fairly and receiving rewards proportional to your contribution. Smart contracts: Deploy smart contracts to automate and secure your operations without intermediaries. Interoperability: Easily integrate our solutions into your existing systems thanks to our flexible blockchain, designed to adapt to the needs of developers and businesses. With EquinetBlock, we provide a powerful and accessible blockchain, allowing each user to be a full-fledged actor in the network.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/theservices/theservices.component.html</context>
+          <context context-type="linenumber">5,11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6228810171186928057" datatype="html">
+        <source>Qui sommes nous</source>
+        <target>Who are we</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/whoareus/whoareus.component.html</context>
+          <context context-type="linenumber">2,3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2123360243257056353" datatype="html">
+        <source>EquinetBlock est une organisation collaborative en plein développement, dédiée à la construction d’une blockchain décentralisée et équitable. Nous réunissons des passionnés, des développeurs, des experts en cryptographie, et des investisseurs autour d’un projet ambitieux : créer une infrastructure blockchain qui place l’équité, la sécurité et l’innovation au cœur de son fonctionnement.
+Nous croyons en la force du collectif pour façonner un futur numérique où chaque contribution compte, et où chaque participant bénéficie d’un système transparent et partagé. Rejoignez-nous pour participer à cette aventure et contribuer à l’évolution de EquinetBlock.</source>
+    <target>EquinetBlock is a growing collaborative organization dedicated to building a decentralized and fair blockchain. We bring together enthusiasts, developers, cryptography experts, and investors around an ambitious project: to create a blockchain infrastructure that places fairness, security, and innovation at the heart of its operation. We believe in the power of the collective to shape a digital future where every contribution counts, and where every participant benefits from a transparent and shared system. Join us to participate in this adventure and contribute to the evolution of EquinetBlock.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/whoareus/whoareus.component.html</context>
+          <context context-type="linenumber">4,6</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

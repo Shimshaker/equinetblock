@@ -1,4 +1,4 @@
-import { NgModule } from '@angular/core';
+import { LOCALE_ID, NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
@@ -14,6 +14,12 @@ import { EvolutionComponent } from './evolution/evolution.component';
 import { TechnologyComponent } from './technology/technology.component';
 import { CapacityComponent } from './capacity/capacity.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { WhoareusComponent } from './whoareus/whoareus.component';
+import { TheservicesComponent } from './theservices/theservices.component';
+import { HelptousesiteComponent } from './helptousesite/helptousesite.component';
+import localeFr from '@angular/common/locales/fr';
+import { registerLocaleData } from '@angular/common';
+import localeFrExtra from '@angular/common/locales/extra/fr'; 
 
 @NgModule({
   declarations: [
@@ -27,15 +33,24 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
     NetworkComponent,
     EvolutionComponent,
     TechnologyComponent,
-    CapacityComponent
+    CapacityComponent,
+    WhoareusComponent,
+    TheservicesComponent,
+    HelptousesiteComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     FormsModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    
   ],
-  providers: [],
+  providers: [ {provide: LOCALE_ID, useValue: 'fr-FR'} ],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule {
+  constructor() {
+    // Enregistre les locales pour fr-FR
+    registerLocaleData(localeFr, 'fr-FR', localeFrExtra);
+  }
+ }

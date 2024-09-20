@@ -4,6 +4,13 @@
   "newProjectRoot": "projects",
   "projects": {
     "equinetblock": {
+      "i18n": {
+        "sourceLocale": "fr-FR",
+        "locales": {
+          "fr-FR": "src/locale/messages.fr.xlf",
+          "en-US": "src/locale/messages.en.xlf"
+        }
+      },
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -24,11 +31,13 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
+            "localize": ["en-EN"],
             "outputPath": "dist/equinetblock",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
-              "zone.js"
+              "zone.js",
+              "@angular/localize/init"
             ],
             "tsConfig": "tsconfig.app.json",
             "inlineStyleLanguage": "scss",
@@ -61,8 +70,8 @@
               "budgets": [
                 {
                   "type": "initial",
-                  "maximumWarning": "500kB",
-                  "maximumError": "1MB"
+                  "maximumWarning": "1MB",
+                  "maximumError": "2MB"
                 },
                 {
                   "type": "anyComponentStyle",
@@ -100,7 +109,8 @@
           "options": {
             "polyfills": [
               "zone.js",
-              "zone.js/testing"
+              "zone.js/testing",
+              "@angular/localize/init"
             ],
             "tsConfig": "tsconfig.spec.json",
             "inlineStyleLanguage": "scss",

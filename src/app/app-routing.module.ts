@@ -7,6 +7,9 @@ import { NetworkComponent } from './network/network.component';
 import { EvolutionComponent } from './evolution/evolution.component';
 import { TechnologyComponent } from './technology/technology.component';
 import { CapacityComponent } from './capacity/capacity.component';
+import { WhoareusComponent } from './whoareus/whoareus.component';
+import { TheservicesComponent } from './theservices/theservices.component';
+import { HelptousesiteComponent } from './helptousesite/helptousesite.component';
 
 const routes: Routes = [
   { path: '', component: BoardingComponent},
@@ -20,7 +23,10 @@ const routes: Routes = [
   { path: 'technology', component: TechnologyComponent},
   { path: 'concept/technology', component: TechnologyComponent},
   { path: 'capacity', component: CapacityComponent},
-  { path: 'concept/capacity', component: CapacityComponent}
+  { path: 'concept/capacity', component: CapacityComponent},
+  { path: 'whoareus', component: WhoareusComponent},
+  { path: 'theservice', component: TheservicesComponent},
+  { path: 'helptousesite', component: HelptousesiteComponent}
 ];
 
 const routerOptions:ExtraOptions={

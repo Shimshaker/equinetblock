@@ -1,3 +1,5 @@
+import '@angular/common/locales/global/fr';
+
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 
 import { AppModule } from './app/app.module';

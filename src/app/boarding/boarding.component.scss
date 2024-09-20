@@ -47,7 +47,7 @@
 .timeline-item-content {
     color: azure;
     padding: 20px;
-    background-color: #48818f;
+   
     position: relative;
     border: solid thin;
     border-radius: 6px;
@@ -63,4 +63,21 @@
 .timeline-item-content span {
     font-size: 14px;
     color: azure;
+}
+
+.text-start {
+    margin-left: 8rem;
+    margin-bottom: 2rem;
+}
+
+.btn {
+    background-color: #137C8B;
+    color: azure;
+}
+
+.btn:hover {
+    background-color: azure;
+    color: black;
+    border-color:#7A90A4 ;
+    border: dotted 1px;
 }
