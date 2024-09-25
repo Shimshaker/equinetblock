@@ -16,11 +16,11 @@
           <context context-type="linenumber">5,6</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="5273338567688303405" datatype="html">
-        <source>Phase 1 : Conception</source>
+      <trans-unit id="7871922592090899957" datatype="html">
+        <source>Phase 1 : <x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Conception<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
-          <context context-type="linenumber">10,11</context>
+          <context context-type="linenumber">11,12</context>
         </context-group>
       </trans-unit>
       <trans-unit id="9045434616747700085" datatype="html">
@@ -37,11 +37,11 @@
           <context context-type="linenumber">12,13</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="7601488409189862367" datatype="html">
-        <source>Phase 2 : Développement Initial</source>
+      <trans-unit id="2970915670213818565" datatype="html">
+        <source>Phase 2 : <x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Développement Initial<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
-          <context context-type="linenumber">18,19</context>
+          <context context-type="linenumber">21,22</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4714631569994265469" datatype="html">
@@ -51,11 +51,11 @@
           <context context-type="linenumber">19,20</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="4105706448158523105" datatype="html">
-        <source>Phase 3 : Lancement du Testnet</source>
+      <trans-unit id="8715238564471126961" datatype="html">
+        <source>Phase 3 : <x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Lancement du Testnet<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
-          <context context-type="linenumber">25,26</context>
+          <context context-type="linenumber">28,29</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7421729655886914274" datatype="html">
@@ -65,11 +65,11 @@
           <context context-type="linenumber">26,27</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="786603556116128715" datatype="html">
-        <source>Phase 4 : Mainnet et Adoption</source>
+      <trans-unit id="5085087620023115111" datatype="html">
+        <source>Phase 4 : <x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Mainnet et Adoption<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
-          <context context-type="linenumber">32,33</context>
+          <context context-type="linenumber">35,36</context>
         </context-group>
       </trans-unit>
       <trans-unit id="9202915084003943937" datatype="html">
@@ -336,6 +336,13 @@
           <context context-type="linenumber">8,9</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="4956922566012252777" datatype="html">
+        <source>name@example.com</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="8895773543178644588" datatype="html">
         <source> Votre email est requis. </source>
         <context-group purpose="location">
@@ -350,6 +357,13 @@
           <context context-type="linenumber">15,16</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="9072172386883223546" datatype="html">
+        <source>Sujet de votre message</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="7279747643436218149" datatype="html">
         <source> Le sujet est requis. </source>
         <context-group purpose="location">
@@ -362,6 +376,10 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
           <context context-type="linenumber">23,24</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">24</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5453573676919481201" datatype="html">

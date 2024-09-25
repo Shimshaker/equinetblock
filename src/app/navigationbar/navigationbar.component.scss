@@ -7,6 +7,7 @@
 .navbar {
     color: azure;
     background-color: #137C8B;
+    font-size: x-large;
     font-family: 'TitilliumL', sans-serif;
 }
 
@@ -20,4 +21,20 @@ a.active {
     border-color: #f7f9fc;
     border-radius: 5px;
 }
+
+
+@media (min-width: 185px) {
+    body {
+      font-size: 0.625rem; /* 16px */
+      padding-left: 0.3rem;
+      padding-right: 0.3rem;
+      color: azure; 
+      background-color: #344D59;
+      font-family: 'TitilliumL', sans-serif;
+    
+    }
+ 
+}
+
+
 

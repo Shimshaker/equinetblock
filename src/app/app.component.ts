@@ -7,6 +7,10 @@ import { Router } from '@angular/router';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
+  localesList = [
+    { code: 'fr', label: 'French'},
+    { code: 'en', label: 'English'}
+  ];
   title = 'equinetblock';
 
   constructor(private _router: Router) {}

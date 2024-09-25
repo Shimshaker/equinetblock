@@ -4,8 +4,8 @@
           <div class="col">
             <nav>
             <ul>
-              <li><a routerLink="whoareus" routerLinkActive="active" i18n>Qui sommes nous ?</a></li>
-              <li><a routerLink="thecharteogc" routerLinkActive="active"></a></li>
+              <li><a [routerLink]="['/', currentLang, 'whoareus']" routerLinkActive="active" i18n>Qui sommes nous ?</a></li>
+              <li><a [routerLink]="['/', currentLang, 'thecharteogc']" routerLinkActive="active"></a></li>
               
             </ul>
             </nav>
@@ -13,8 +13,8 @@
           <div class="col">
             <nav>
             <ul>
-              <li><a routerLink="theservice" routerLinkActive="active" i18n>Les services</a></li>
-              <li><a routerLink="thetermsofusefromthesite" routerLinkActive="active"></a></li>
+              <li><a [routerLink]="['/', currentLang, 'theservice']" routerLinkActive="active" i18n>Les services</a></li>
+              <li><a [routerLink]="['/', currentLang, 'thetermsofusefromthesite']" routerLinkActive="active"></a></li>
             </ul>
         </nav>
           </div>
@@ -22,7 +22,7 @@
             <nav>
             <ul>
              <!--  <li><a routerLink="helptousesite" routerLinkActive="active">Help to use site</a></li> -->
-              <li><a routerLink="contact" routerLinkActive="active" i18n>Contactez-nous</a></li>
+              <li><a [routerLink]="['/', currentLang, 'contact']" routerLinkActive="active" i18n>Contactez-nous</a></li>
             </ul>
             </nav>
           </div>

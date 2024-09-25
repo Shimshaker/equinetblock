@@ -1,5 +1,6 @@
-<div class="container text-center">
+<div class="container-fluid text-center">
     <div class="row">
+        <div class="container">
             <h3 i18n><u>Contactez-nous...!</u></h3>
             <br>
             <br>
@@ -7,21 +8,21 @@
             <form class="need-validation" [formGroup]="contactForm" (ngSubmit)="sendEmail()">
                 <label class="form-label" i18n>Votre adresse email</label>
                 <div class="input-group mb-3 has-validation">
-                    <input type="email" class="form-control" formControlName="email" placeholder="name@example.com" />   
+                    <input type="email" class="form-control" formControlName="email" placeholder="name@example.com" i18n-placeholder />   
                 </div>
                 <div class="text-center" *ngIf="contactForm.controls['email'].invalid && contactForm.controls['email'].touched" i18n>
                     Votre email est requis.
                     </div>
                 <label class="form-label" i18n>Le sujet de votre message</label>
                 <div class="input-group mb-3 has-validation">
-                    <input type="text" class="form-control" formControlName="subject" placeholder="Sujet de votre message" />
+                    <input type="text" class="form-control" formControlName="subject" placeholder="Sujet de votre message" i18n-placeholder />
                 </div>
                 <div *ngIf="contactForm.controls['subject'].invalid && contactForm.controls['subject'].touched" i18n>
                     Le sujet est requis.
                     </div>
                 <div class="mb-3 has-validation">
                     <label class="form-label" for="message" i18n>Votre message</label>
-                    <textarea class="form-control" formControlName="message" placeholder="Votre message"></textarea>
+                    <textarea class="form-control" formControlName="message" placeholder="Votre message" i18n-placeholder></textarea>
                 </div>
                 <div *ngIf="contactForm.controls['message'].invalid && contactForm.controls['message'].touched" i18n>
                     Le message est requis.
@@ -29,6 +30,6 @@
                     <br>
                 <button class="btn" type="submit" [disabled]="contactForm.invalid" i18n>Envoyer</button>
               </form>
-      
+        </div>
     </div>
 </div>

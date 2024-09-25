@@ -16,3 +16,10 @@ body {
 h4 {
     margin-top: 1rem;
 }
+
+@media (min-width: 185px) {
+    .container {
+        margin-top: 4rem;
+    }
+ 
+}

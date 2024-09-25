@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file source-language="fr-FR" datatype="plaintext" original="ng2.template">
+  <file source-language="fr" datatype="plaintext" original="ng2.template">
     <body>
       <trans-unit id="7313068218401422709" datatype="html">
         <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Fondement du Projet : Une Vision Ambitieuse et Collaborative<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
@@ -16,172 +16,172 @@
           <context context-type="linenumber">5,6</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="5273338567688303405" datatype="html">
-        <source>Phase 1 : Conception</source>
+      <trans-unit id="7871922592090899957" datatype="html">
+        <source>Phase 1 : <x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Conception<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
-          <context context-type="linenumber">10,11</context>
+          <context context-type="linenumber">11,12</context>
         </context-group>
       </trans-unit>
       <trans-unit id="9045434616747700085" datatype="html">
         <source>Recherche de collaborateur et etudes du projet</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
-          <context context-type="linenumber">11,12</context>
+          <context context-type="linenumber">12,13</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3545533192235603421" datatype="html">
         <source>Élaboration de l&apos;architecture de la blockchain, choix du consensus, création des bases techniques.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
-          <context context-type="linenumber">12,13</context>
+          <context context-type="linenumber">13,14</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="7601488409189862367" datatype="html">
-        <source>Phase 2 : Développement Initial</source>
+      <trans-unit id="2970915670213818565" datatype="html">
+        <source>Phase 2 : <x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Développement Initial<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
-          <context context-type="linenumber">18,19</context>
+          <context context-type="linenumber">21,22</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4714631569994265469" datatype="html">
         <source>Développement des fonctionnalités principales et tests de la sécurité de la chaîne.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
-          <context context-type="linenumber">19,20</context>
+          <context context-type="linenumber">22,23</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="4105706448158523105" datatype="html">
-        <source>Phase 3 : Lancement du Testnet</source>
+      <trans-unit id="8715238564471126961" datatype="html">
+        <source>Phase 3 : <x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Lancement du Testnet<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
-          <context context-type="linenumber">25,26</context>
+          <context context-type="linenumber">28,29</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7421729655886914274" datatype="html">
         <source>Lancement de la version test du réseau pour valider les fonctionnalités.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
-          <context context-type="linenumber">26,27</context>
+          <context context-type="linenumber">29,30</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="786603556116128715" datatype="html">
-        <source>Phase 4 : Mainnet et Adoption</source>
+      <trans-unit id="5085087620023115111" datatype="html">
+        <source>Phase 4 : <x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Mainnet et Adoption<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
-          <context context-type="linenumber">32,33</context>
+          <context context-type="linenumber">35,36</context>
         </context-group>
       </trans-unit>
       <trans-unit id="9202915084003943937" datatype="html">
         <source>Déploiement du réseau principal et promotion auprès des utilisateurs et investisseurs.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
-          <context context-type="linenumber">33,34</context>
+          <context context-type="linenumber">36,37</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2603048809148169613" datatype="html">
         <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Une Ambition Partagée<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/>...</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
-          <context context-type="linenumber">41,43</context>
+          <context context-type="linenumber">44,46</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6559802555681309840" datatype="html">
         <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Notre vision est claire<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/>: créer une blockchain équitable, évolutive et sécurisée, capable de répondre aux besoins de demain.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
-          <context context-type="linenumber">47,49</context>
+          <context context-type="linenumber">50,52</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6353782916070225728" datatype="html">
         <source>Pour concrétiser cette vision, nous avons besoin de l&apos;expertise et de l&apos;engagement de talents dans divers domaines :</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
-          <context context-type="linenumber">49,50</context>
+          <context context-type="linenumber">52,53</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7522290397163320082" datatype="html">
         <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Cryptographie<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/> : Des experts en sécurité pour renforcer nos protocoles et garantir la protection des données et des transactions.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
-          <context context-type="linenumber">52,53</context>
+          <context context-type="linenumber">55,56</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2860276917248982177" datatype="html">
         <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Développement logiciel<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/> : Des ingénieurs spécialisés dans des langages comme Rust pour créer une infrastructure stable et performante.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
-          <context context-type="linenumber">53,54</context>
+          <context context-type="linenumber">56,57</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5395518235579172543" datatype="html">
         <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Marketing et promotion<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/> : Des professionnels capables de faire connaître EquinetBlock et d’attirer de nouveaux utilisateurs sur le réseau.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
-          <context context-type="linenumber">54,55</context>
+          <context context-type="linenumber">57,58</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8130648444997083395" datatype="html">
         <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Utilisateurs et adoption<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/> : Des pionniers prêts à adopter notre technologie, à l’utiliser pour leurs transactions et à contribuer à la validation des blocs.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
-          <context context-type="linenumber">55,56</context>
+          <context context-type="linenumber">58,59</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7364344077828783818" datatype="html">
         <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Investissement et support financier<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/> : Des investisseurs visionnaires prêts à soutenir l’évolution du projet et à accompagner sa croissance.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
-          <context context-type="linenumber">56,58</context>
+          <context context-type="linenumber">59,61</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2412487190010371099" datatype="html">
         <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Développement Collaboratif<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/>: Nous croyons en un modèle de développement ouvert et transparent, où chaque contribution compte. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> Dès le début, EquinetBlock s’est construit sur la base de contributions diverses, et nous souhaitons que cela continue. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> Chaque collaborateur, chaque idée, chaque effort participe à l&apos;amélioration de notre réseau. Nous encourageons les échanges, le partage d’idées et la mise en commun des ressources pour créer un écosystème où l’innovation est collective.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
-          <context context-type="linenumber">59,65</context>
+          <context context-type="linenumber">62,68</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3092166505389774149" datatype="html">
         <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Un Projet au Cœur de l&apos;Innovation<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
-          <context context-type="linenumber">68,70</context>
+          <context context-type="linenumber">71,73</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2824211332304011623" datatype="html">
         <source> En tant que projet encore en plein développement, nous avons conscience de l’immense potentiel que recèle notre blockchain. Nous sommes à la recherche de talents motivés et d’esprits créatifs pour nous aider à surmonter les défis techniques et à propulser EquinetBlock vers de nouveaux sommets. Que vous soyez un développeur, un expert en cryptographie, un utilisateur passionné ou un investisseur audacieux, votre place est ici, avec nous, pour bâtir l’avenir de EquinetBlock ensemble.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
-          <context context-type="linenumber">72</context>
+          <context context-type="linenumber">75</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7139318241444942205" datatype="html">
         <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Construire l&apos;Avenir Ensemble<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
-          <context context-type="linenumber">77,79</context>
+          <context context-type="linenumber">80,82</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7146283174801642605" datatype="html">
         <source>Rejoindre EquinetBlock, c’est participer à un projet où chaque voix compte, où l’innovation est guidée par la collaboration, et où les résultats sont partagés entre tous. Nous avons besoin de vous pour rendre cette vision possible et construire ensemble une blockchain qui sera à la fois sûre, performante et équitable pour l&apos;ensemble de ses participants.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
-          <context context-type="linenumber">79,80</context>
+          <context context-type="linenumber">82,83</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6469894815265333713" datatype="html">
         <source>Si vous avez l’âme d’un pionnier et que vous souhaitez prendre part à cette aventure ambitieuse, nous vous invitons à rejoindre notre équipe et à contribuer à l’avenir de la blockchain, contactez-nous !</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
-          <context context-type="linenumber">84,85</context>
+          <context context-type="linenumber">87,88</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1885904962518702068" datatype="html">
         <source>contactez-nous</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/boarding/boarding.component.html</context>
-          <context context-type="linenumber">86,87</context>
+          <context context-type="linenumber">89,90</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8313421560705526029" datatype="html">
@@ -319,63 +319,81 @@
         <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Contactez-nous...!<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
-          <context context-type="linenumber">3,5</context>
+          <context context-type="linenumber">4,6</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8336343297342950438" datatype="html">
         <source>Vous avez des questions, de l&apos;intérêt pour le projet, envoyez nous un mail...</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
-          <context context-type="linenumber">6,7</context>
+          <context context-type="linenumber">7,8</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7997400744829322077" datatype="html">
         <source>Votre adresse email</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
-          <context context-type="linenumber">8,9</context>
+          <context context-type="linenumber">9,10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4956922566012252777" datatype="html">
+        <source>name@example.com</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">11</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8895773543178644588" datatype="html">
         <source> Votre email est requis. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
-          <context context-type="linenumber">13</context>
+          <context context-type="linenumber">14</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8921762031255757221" datatype="html">
         <source>Le sujet de votre message</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
-          <context context-type="linenumber">15,16</context>
+          <context context-type="linenumber">16,17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9072172386883223546" datatype="html">
+        <source>Sujet de votre message</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">18</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7279747643436218149" datatype="html">
         <source> Le sujet est requis. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
-          <context context-type="linenumber">20</context>
+          <context context-type="linenumber">21</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3316133366238757488" datatype="html">
         <source>Votre message</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
-          <context context-type="linenumber">23,24</context>
+          <context context-type="linenumber">24,25</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">25</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5453573676919481201" datatype="html">
         <source> Le message est requis. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
-          <context context-type="linenumber">27</context>
+          <context context-type="linenumber">28</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7243381769177289361" datatype="html">
         <source>Envoyer</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
-          <context context-type="linenumber">30,31</context>
+          <context context-type="linenumber">31,32</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2273193841404458254" datatype="html">

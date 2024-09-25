@@ -1,9 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+@import '../node_modules/bootstrap-icons/font/bootstrap-icons.min.css';
 
 @font-face {
   font-family: "TitilliumL";
   src: url("assets/fonts/Titillium-Thin.otf") format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "TitilliumUR";
+  src: url("assets/fonts/Titillium-ThinUpright.otf") format('opentype');
   font-weight: normal;
   font-style: normal;
 }
@@ -26,6 +35,25 @@ html {
     font-family: 'TitilliumL', sans-serif;
 }
 
+body {
+  color: azure; 
+  background-color: #344D59;
+  font-family: 'TitilliumL', sans-serif;
+}
+
+@media (min-width: 185px) {
+  body {
+    font-size: 0.725rem; /* 16px */
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+    color: azure; 
+    background-color: #344D59;
+    font-family: 'TitilliumL', sans-serif;
+  
+  }
+}
+
+
 @media (min-width: 576px) {
     body {
       font-size: 0.625rem; /* 16px */
@@ -34,6 +62,7 @@ html {
       color: azure; 
       background-color: #344D59;
       font-family: 'TitilliumL', sans-serif;
+    
     }
   }
   

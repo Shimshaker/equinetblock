@@ -6,6 +6,13 @@
   </div>
   <div class="col col-lg">
     <app-header></app-header>
+    <!-- <ul>
+      <li *ngFor="let locale of localesList">
+        <a href="/{{locale.code}}/">
+          {{locale.label}}
+        </a>
+      </li>
+    </ul> -->
     <router-outlet></router-outlet>
   </div>
   <div class="col col-lg-auto">
