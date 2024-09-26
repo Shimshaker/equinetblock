@@ -35,9 +35,18 @@ a.active {
     }
 
     .headering {
+        float: left;
         margin: 0;
     }
+
+   
  
+}
+
+@media (max-width: 1080px) {
+    .navbar-brand {
+        display: none;
+    }
 }
 
 .dropdown-menu {
@@ -56,10 +65,10 @@ a.active {
 }
 
 .navbar-toggler-icon {
+   
     border-color: #f7f9fc;
     color: azure;
 }
 i {
-    
     font-size: xx-large;
 }

@@ -14,8 +14,8 @@ export class LanguageService {
 
    }
 
-  setLang(lang: string) {
-    this.router.navigateByUrl("./")
+  setLang(newLang: string) {
+    window.location.href = `/${newLang}`;
   }
 
   getLang(): string {
