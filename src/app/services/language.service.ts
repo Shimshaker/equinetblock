@@ -9,16 +9,13 @@ export class LanguageService {
   currentLang!: string;
 
   constructor(private router: Router) {
-    const langFromUrl = this.router.url.split('/')[1];
+    const langFromUrl = this.router.url.split('/')[2];
     this.currentLang = langFromUrl || 'fr';
 
    }
 
-   setLang(lang: string) {
-    this.currentLang = lang;
-
-    this.router.navigate([`/${lang}`]);
-   
+  setLang(lang: string) {
+    this.router.navigateByUrl("./")
   }
 
   getLang(): string {

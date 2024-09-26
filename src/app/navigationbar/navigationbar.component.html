@@ -1,31 +1,37 @@
 <div class="container-fluid">
     <nav class="navbar fixed-top navbar-expand-lg">
         <div class="container-fluid">
-        <a class="navbar-brand" href="#"><img src="assets/images/EquiLogoMen.jpeg" height="40" alt="equinetlogog"></a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+            <div class="headering">
+                <a class="navbar-brand" [routerLink]="['/', currentLang, 'boarding']"><img src="assets/images/EquiLogoMen.jpeg" height="40" alt="equinetlogo"></a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span><i class="bi bi-list"></i></span>
+                </button>
+            </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-                <a class="nav-link" [routerLink]="['/', currentLang, 'boarding']" routerLinkActive="router-link-active"  routerLinkActive="active" aria-current="page" (click)="closeMenu()" i18n>Boarding</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" [routerLink]="['/', currentLang, 'concept']" routerLinkActive="active" (click)="closeMenu()" i18n>Concept</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" [routerLink]="['/', currentLang, 'contact']" routerLinkActive="active" (click)="closeMenu()" i18n>Contact</a>
-            </li>
-            <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                  Language
+                <li class="nav-item">
+                    <a class="nav-link" [routerLink]="['/', currentLang, 'boarding']" routerLinkActive="router-link-active"  routerLinkActive="active" aria-current="page" (click)="closeMenu()" i18n>Boarding</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" [routerLink]="['/', currentLang, 'concept']" routerLinkActive="active" (click)="closeMenu()" i18n>Concept</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" [routerLink]="['/', currentLang, 'contact']" routerLinkActive="active" (click)="closeMenu()" i18n>Contact</a>
+                </li>
+               
+            </ul>    
+            <li class="nav-item dropdown d-flex justify-content-end">
+                <a class="nav-link dropdown-toggle" href="#" role="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false" i18n>
+                Langue
                 </a>
-                <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" (click)="changeLanguage('fr')">fr</a></li>
-                  <li><a class="dropdown-item" (click)="changeLanguage('en-US')">English</a></li>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <li><a class="dropdown-item" (click)="changeLanguage('fr-FR')" (click)="closeMenu()" >FR</a></li>
+                <li><a class="dropdown-item" (click)="changeLanguage('fr-BE')" (click)="closeMenu()" >BE</a></li>
+                <li><a class="dropdown-item" (click)="changeLanguage('en-US')" (click)="closeMenu()" >US</a></li>
+                <li><a class="dropdown-item" (click)="changeLanguage('en-EN')" (click)="closeMenu()" >EN</a></li>
                 </ul>
-              </li>
-            </ul>
+            </li>
+        
            
           <!--   <form class="d-flex" role="search">
             <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">

@@ -2,23 +2,6 @@
     box-sizing: border-box;
 }
 
-.timeline {
-    display: block;
-    position: relative;
-    max-width: 1000px;
-    margin: 50px auto;
-}
-.timeline::after {
-    content: '';
-    position: absolute;
-    width: 6px;
-    background-color: #0269a4;
-    top: 0;
-    bottom: 0;
-    left: 50%;
-    margin-left: -3px;
-}
-
 .card {
     padding: 1rem;
     border: solid thin;
@@ -32,19 +15,39 @@ p {
     font-family: TitilliumUR;
 }
 
+.timeline {
+    display: block;
+    position: relative;
+    max-width: 1000px;
+    margin: 50px auto;
+}
+
+.timeline::after {
+    content: '';
+    position: absolute;
+    width: 6px;
+    background-color: #0269a4;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    margin-left: -3px;
+}
+
 .timeline-item {
     display: block;
     padding: 20px 40px;
     position: relative;
     width: 50%;
-    
 }
+
 .timeline-item:nth-child(odd) {
     left: 0;
 }
+
 .timeline-item:nth-child(even) {
     left: 50%;
 }
+
 .timeline-item::after {
     content: '';
     position: absolute;
@@ -57,25 +60,29 @@ p {
     border-radius: 50%;
     z-index: 1;
 }
+
 .timeline-item:nth-child(even)::after {
     left: -12px;
 }
+
 .timeline-item-content {
     color: azure;
     padding: 20px;
-   
     position: relative;
     border: solid thin;
     border-radius: 6px;
 }
+
 .timeline-item-content h2 {
     font-size: 1rem;
     color: azure;
 }
+
 .timeline-item-content p {
     margin: 10px 0;
     color: azure;
 }
+
 .timeline-item-content span {
     font-size: 14px;
     color: azure;
@@ -94,30 +101,45 @@ p {
 .btn:hover {
     background-color: azure;
     color: black;
-    border-color:#7A90A4 ;
+    border-color: #7A90A4;
     border: dotted 1px;
 }
 
-
-@media (max-width: 185px) {
-  .timeline {
+.card-min-res {
+    margin: auto;
+    margin-bottom: 1rem;
+    padding: auto;
+    flex: auto;
     display: none;
-  }
-
-  .timeline-item {
-    margin-bottom: 24px;
-    padding: 10px;
-    text-align: center;
-    display: block;
-  }
-
-  .card {
-    padding: 1rem;
-    border: solid thin;
-    border-color: azure;
-    color: azure;
-    font-family: TitilliumL;
-    background-color: #48818f;
+    flex-direction: column;
 }
+
+
+/* Media query pour résolution moyenne (max-width: 768px) */
+@media (max-width: 1080px) {
+    .timeline {
+        display: none;
+      }
+    
+      .card-min-res {
+        display: flex;
+    
+      }
+    
+      .card {
+        margin: auto;
+        margin-bottom: 1rem;
+        padding: 1rem;
+        border: solid thin;
+        border-color: azure;
+        color: azure;
+        font-family: TitilliumL;
+        background-color: #48818f;
+      }
+
+      .pfigure {
+        margin: auto;
+        text-align: start;
+      }
 }
 

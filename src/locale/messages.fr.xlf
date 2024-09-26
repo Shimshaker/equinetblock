@@ -508,6 +508,13 @@
           <context context-type="linenumber">17,18</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="2536051464113424035" datatype="html">
+        <source> Langue </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/navigationbar/navigationbar.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="1757864252899873067" datatype="html">
         <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Notre Réseau : La Fondation d&apos;une Blockchain Solide et Évolutive<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
         <context-group purpose="location">

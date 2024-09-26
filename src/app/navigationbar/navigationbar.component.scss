@@ -5,6 +5,7 @@
 }
 
 .navbar {
+    margin: auto;
     color: azure;
     background-color: #137C8B;
     font-size: x-large;
@@ -22,7 +23,6 @@ a.active {
     border-radius: 5px;
 }
 
-
 @media (min-width: 185px) {
     body {
       font-size: 0.625rem; /* 16px */
@@ -33,8 +33,33 @@ a.active {
       font-family: 'TitilliumL', sans-serif;
     
     }
+
+    .headering {
+        margin: 0;
+    }
  
 }
 
+.dropdown-menu {
+    min-width: 50px;
+    background-color: #137C8B;
+}
 
 
+.dropdown-menu>ul>li>a {
+    width: 4rem;
+}
+
+.navbar-toggler {
+    border: solid thin;
+    color: #f7f9fc;
+}
+
+.navbar-toggler-icon {
+    border-color: #f7f9fc;
+    color: azure;
+}
+i {
+    
+    font-size: xx-large;
+}
