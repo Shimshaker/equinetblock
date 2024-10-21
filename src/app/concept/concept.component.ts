@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import { Component, ElementRef, ViewChild } from '@angular/core';
+import { BehaviorSubject } from 'rxjs';
 
 @Component({
   selector: 'app-concept',
@@ -6,5 +7,12 @@ import { Component } from '@angular/core';
   styleUrl: './concept.component.scss'
 })
 export class ConceptComponent {
+@ViewChild('infoSection') infoSection!: ElementRef;
+
+scroolToSection() {
+
+  this.infoSection.nativeElement.scrollIntoView({ Behavior: 'smooth'});
+
+}
 
 }

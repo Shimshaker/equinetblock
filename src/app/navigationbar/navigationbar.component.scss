@@ -12,8 +12,21 @@
     font-family: 'TitilliumL', sans-serif;
 }
 
+.social {
+    padding-left: 1rem;
+}
+
 a {
     color: #f7f9fc;
+}
+
+.bi-discord:hover {
+    color: #7289da;
+
+}
+
+.bi-telegram:hover {
+    color: #24A1DE;
 }
 
 a.active {
@@ -39,6 +52,10 @@ a.active {
         margin: 0;
     }
 
+    .navbar-toggler {
+      float: right;
+    }
+
    
  
 }
@@ -46,6 +63,10 @@ a.active {
 @media (max-width: 1080px) {
     .navbar-brand {
         display: none;
+    }
+
+    .navbar-toggler {
+        float: right;
     }
 }
 

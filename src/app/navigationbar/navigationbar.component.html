@@ -1,6 +1,6 @@
 <div class="container-fluid">
     <nav class="navbar fixed-top navbar-expand-lg">
-        <div class="container-fluid">
+        <div class="container">
             <div class="headering">
                 <a class="navbar-brand" [routerLink]="['/', currentLang, 'boarding']"><img src="assets/images/EquiLogoMen.jpeg" height="40" alt="equinetlogo"></a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -19,8 +19,13 @@
                     <a class="nav-link" [routerLink]="['/', currentLang, 'contact']" routerLinkActive="active" (click)="closeMenu()" i18n>Contact</a>
                 </li>
                
+                
+            </ul>
+            <ul class="navbar-nav me-auto">
+                <li class="nav-item social"><i class="bi bi-discord"></i></li>
+                <li class="nav-item social"> <i class="bi bi-telegram"></i></li>
             </ul>    
-            <li class="nav-item dropdown d-flex justify-content-end">
+            <li class="nav-item dropdown d-flex">
                 <a class="nav-link dropdown-toggle" href="#" role="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false" i18n>
                 Langue
                 </a>

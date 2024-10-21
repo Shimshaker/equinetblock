@@ -9,6 +9,8 @@ import { LanguageService } from '../services/language.service';
 })
 export class NavigationbarComponent implements OnInit {
   currentLang!: string;
+  selectedItem!: string;
+  defaultItem: string = "FR"
   
   constructor(private route: ActivatedRoute, private router:Router, private languageService: LanguageService) {}
 
@@ -18,8 +20,11 @@ export class NavigationbarComponent implements OnInit {
   }
 
   changeLanguage(lang: string) {
+    let langPrefix = lang.slice(-2);
     this.languageService.setLang(lang);
     this.currentLang = lang;
+
+    this.selectedItem = langPrefix;
   }
 
   closeMenu(){

@@ -544,7 +544,7 @@
       </trans-unit>
       <trans-unit id="3529956009706043695" datatype="html">
         <source>Une blockchain par tous pour tous !</source>
-        <target>    A blockchain by all for all!</target>
+        <target>A blockchain by all for all!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/header.component.html</context>
           <context context-type="linenumber">8,9</context>
